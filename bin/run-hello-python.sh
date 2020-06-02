@@ -19,3 +19,6 @@ cd $PRGDIR/..
 root_dir=`pwd`
 
 echo "program root dir: $root_dir"
+
+# 启动程序
+python $root_dir/hello-python/main.py
